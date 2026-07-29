@@ -95,18 +95,4 @@ I'm passionate about building scalable software, solving real business problems 
 
 ---
 
-## 📊 GitHub Stats
 
-<p>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=samiregaldino&show_icons=true&theme=github_dark&hide_border=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiregaldino&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-</p>
