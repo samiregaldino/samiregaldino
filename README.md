@@ -1,6 +1,6 @@
 # Hi, I'm Samire 👋
 
-I'm a **Full Stack Software Engineer** based in **Porto, Portugal** 🇵🇹
+I'm a **Full Stack Software Developer** based in **Porto, Portugal** 🇵🇹
 
 I have over **3 years of experience** developing web applications, internal systems and business solutions using **PHP, Laravel, JavaScript and .NET**.
 
@@ -11,7 +11,7 @@ I'm passionate about building scalable software, solving real business problems 
 ## 🚀 About Me
 
 - 📍 Porto, Portugal
-- 💼 Full Stack Software Engineer
+- 💼 Full Stack Software Developer
 - 🌱 Currently learning **Docker, AWS and Software Architecture**
 - 🌍 Open to international opportunities
 - 📫 Contact: **samiregaldino@outlook.com**
