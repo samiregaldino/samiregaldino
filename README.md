@@ -1,21 +1,112 @@
 # Hi, I'm Samire 👋
 
-I'm a Full Stack Software Engineer based in Porto, Portugal 🇵🇹.
+I'm a **Full Stack Software Engineer** based in **Porto, Portugal** 🇵🇹
 
-I have over 3 years of experience developing web applications, internal systems and business solutions using PHP, Laravel, JavaScript and .NET.
+I have over **3 years of experience** developing web applications, internal systems and business solutions using **PHP, Laravel, JavaScript and .NET**.
 
-Currently, I'm focused on building scalable applications, improving software architecture and expanding my knowledge in cloud technologies.
+I'm passionate about building scalable software, solving real business problems and continuously improving my skills in software architecture, cloud technologies and modern development practices.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 📍 Based in Porto, Portugal
+- 📍 Porto, Portugal
 - 💼 Full Stack Software Engineer
-- 🌱 Currently learning Docker, AWS and Software Architecture
+- 🌱 Currently learning **Docker, AWS and Software Architecture**
 - 🌍 Open to international opportunities
-- 📫 Reach me at **samiregaldino@outlook.com**
+- 📫 Contact: **samiregaldino@outlook.com**
 - 🌐 Portfolio *(coming soon)*
 
-- 
-<a href="https://www.github.com/samiregaldino" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/samiregaldino?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> ### Skills <p align="left"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> ### Socials <p align="left"> <a href="https://www.github.com/samiregaldino" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/samire-galdino-a20067204/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p> ### Badges <b>My GitHub Stats</b> <a href="http://www.github.com/samiregaldino"><img src="https://github-readme-stats.vercel.app/api?username=samiregaldino&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samiregaldino's GitHub stats" /></a> <a href="https://github.com/samiregaldino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiregaldino&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<a href="https://www.php.net/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" />
+</a>
+
+<a href="https://laravel.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="40" height="40" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
+</a>
+
+<a href="https://dotnet.microsoft.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" />
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />
+</a>
+
+<a href="https://learn.microsoft.com/sql/sql-server/">
+<img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" />
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/HTML">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML" />
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/CSS">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS" />
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" />
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+
+<a href="https://github.com/samiregaldino">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samire-galdino-silva-a20067204/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=samiregaldino&show_icons=true&theme=github_dark&hide_border=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiregaldino&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+</p>
